@@ -13,6 +13,6 @@
 [KeyCode](https://keycode.info) is used to identify the corresponding keycode for pressed key.
 
 ### 3. Playing with CSS Variables:
-- `index.html` : 
-- `script.js` : 
-- `style.css` : 
+- `index.html` : it contains controls class and sub classes are blur, spacing, color.
+- `script.js` : not required
+- `style.css` : it contains basic styling with var declaration, eg : --base: #ffc600; >color: var(--base);
