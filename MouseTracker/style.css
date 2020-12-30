@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    width: 95vw;
+    height: 95vh;
+}
+.display {
+    top: 1px;
+    width: 64px;
+    height: 64px;
+    padding: 1.5em
+    color: transparent;
+    position: absolute;
+    border-radius: 50%;
+    background-image: url('happy.png');
+    background-color: #FFCA28;
+    background-repeat: no-repeat;
+    background-position: 50 50
+}

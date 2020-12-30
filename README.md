@@ -18,6 +18,6 @@
 - `style.css` : it contains basic styling with var declaration, eg : --base: #ffc600; >color: var(--base);
 
 ### 4. Playing Around Events of `mouse-tacker`:
-- `index.html` : 
--
--
+- `index.html` : just contains a `<div>` with class attribute,
+- `script.js` : it contains two `function` and mouse events, 
+- `srtle.css` : just basic styling in it,
