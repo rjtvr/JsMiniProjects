@@ -16,3 +16,8 @@
 - `index.html` : it contains controls class and sub classes are blur, spacing, color.
 - `script.js` : not required
 - `style.css` : it contains basic styling with var declaration, eg : --base: #ffc600; >color: var(--base);
+
+### 4. Playing Around Events of `mouse-tacker`:
+- `index.html` : 
+-
+-
