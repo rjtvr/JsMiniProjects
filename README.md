@@ -20,4 +20,9 @@
 ### 4. Playing Around Events of `mouse-tacker`:
 - `index.html` : just contains a `<div>` with class attribute,
 - `script.js` : it contains two `function` and mouse events, 
-- `srtle.css` : just basic styling in it,
+- `style.css` : just basic styling in it,
+
+### 5. Typing Speed Tester:
+- `index.html` :  
+- `script.js` : 
+- `style.css` : 
