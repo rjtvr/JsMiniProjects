@@ -183,6 +183,8 @@ body{
     color: #E95D0F;
     background: white ;
     border: 10px solid #E95D0F;
+    border-radius: .5em;
+    transition: .6s
 }
 
 #reset:hover {
