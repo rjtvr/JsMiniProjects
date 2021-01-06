@@ -23,6 +23,8 @@
 - `style.css` : just basic styling in it,
 
 ### 5. Typing Speed Tester:
-- `index.html` :  
-- `script.js` : 
-- `style.css` : 
+- `index.html` : contains origin text and input box with start over button,
+- `script.js` : it contains main function named, `start()` and `reset()`,
+- `style.css` : boiler plate designing with custom styling.
+
+### 6. 
